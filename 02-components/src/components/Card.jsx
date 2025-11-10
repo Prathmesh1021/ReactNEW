@@ -5,7 +5,7 @@ const Card = () => {
     <div>
         <div className='card'>
         <h1>Prathmesh Patil</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, vitae!</p>
+        <p>B.Tech in Electronics And Computer Science </p>
       </div>
     </div>
   )
