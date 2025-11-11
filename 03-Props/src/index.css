@@ -13,8 +13,6 @@ body {
 body{
   background-color: #111;
 }
-
-
 .parent{
   padding: 20px;
   display: flex;
